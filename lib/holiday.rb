@@ -81,6 +81,8 @@ def all_holidays_with_bbq(holiday_hash)
   # bbq = holiday_hash[:spring].keys.flatten
   # bbq2 = holiday_hash[:summer].keys.flatten
   # bbq2 + bbq
+  
+  
 end
 
 
